@@ -474,14 +474,10 @@ The processor design contains dedicated decoding logic for several RISC-V instru
 
 * **SystemVerilog**
 * **Verilog HDL**
-* **Python**
-* **Cocotb**
 * **Icarus Verilog**
 * **GTKWave**
 * **Visual Studio Code**
-* **Ubuntu Linux**
-* **Git**
-* **GitHub**
+ 
 
 ---
 
@@ -534,35 +530,7 @@ gtkwave dump.vcd
 The exact `make` targets and simulation files depend on the module being tested.
 
 ---
-
-# Skills Demonstrated
-
-This project demonstrates practical experience in:
-
-* RTL Design
-* SystemVerilog
-* Verilog HDL
-* Digital Logic Design
-* Combinational Circuit Design
-* Sequential Circuit Design
-* Processor Architecture
-* RISC-V Architecture
-* Instruction Decoding
-* ALU Design
-* Register File Design
-* Memory Interface Design
-* Branch and Jump Logic
-* Load/Store Operations
-* Modular Hardware Design
-* Functional Verification
-* Cocotb-based Verification
-* HDL Simulation
-* GTKWave Waveform Debugging
-* Linux-based Development
-* Git and GitHub
-
----
-
+ 
 # Project Highlights
 
 ### Digital Design
